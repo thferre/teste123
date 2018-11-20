@@ -1,10 +1,6 @@
 <?php
 
-/*
-*
-* PrestaBR - https://prestabr.com.br
-*
-*/
+
 
 include_once(dirname(__FILE__).'/../../config/config.inc.php');
 include_once(dirname(__FILE__).'/../../init.php');
