@@ -3,7 +3,7 @@
 /*
 *
 * PrestaBR - https://prestabr.com.br
-* 2011-18
+*
 */
 
 include_once(dirname(__FILE__).'/../../config/config.inc.php');
