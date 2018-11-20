@@ -2,9 +2,13 @@
 
 /*
 *
+*
 * PrestaBR - https://prestabr.com.br
+* 2011-18
 *
 */
+
+// Verificando alteração...
 
 include_once(dirname(__FILE__).'/../../config/config.inc.php');
 include_once(dirname(__FILE__).'/../../init.php');
